@@ -78,6 +78,8 @@ function App() {
     "NaN": "Resultado indefinido"
   } as Record<string, string>;
 
+
+  
   return (
     <div className="calculator">
       <Display
